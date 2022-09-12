@@ -1,0 +1,19 @@
+{
+  "name": "instaclone2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunrap/nomadcoffee-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunrap/nomadcoffee-backend/issues"
+  },
+  "homepage": "https://github.com/yunrap/nomadcoffee-backend#readme"
+}
