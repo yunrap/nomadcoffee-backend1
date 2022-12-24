@@ -15,8 +15,9 @@ model User {
   username String @unique
   email String @unique
   name String
-  location String
+  location String 
   password String
-  avatarURL String
+  bio String?
+  avatarURL String?
   githubUsername String
 }
